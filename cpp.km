@@ -1,0 +1,14 @@
+{
+    "root": {
+        "data": {
+            "id": "coziaemqe6w0",
+            "created": 1670814442621,
+            "text": "MainTopic",
+            "priority": null
+        },
+        "children": []
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
