@@ -22,16 +22,16 @@ void isInCircle(Point p, Circle c)
     float distance = (p.getPointX() - c.getCenter().getPointX()) * (p.getPointX() - c.getCenter().getPointX()) + (p.getPointY() - c.getCenter().getPointY()) * (p.getPointY() - c.getCenter().getPointY());
 
     if (distance == c.getR() * c.getR())
-    {
-        cout << "on the circle" << endl;
+{
+        cout << "is on the circle" << endl;
     }
     else if (distance > c.getR() * c.getR())
     {
-        cout << "out of the circle" << endl;
+        cout << "is out of the circle" << endl;
     }
     else if (distance < c.getR() * c.getR())
     {
-        cout << "in the circle" << endl;
+        cout << "is in the circle" << endl;
     }
 }
 int main()

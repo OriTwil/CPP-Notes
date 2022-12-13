@@ -1,0 +1,42 @@
+[
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_5.dir\\demo_5.cpp.obj -c D:\\code\\Study-Code\\demo_5.cpp",
+  "file": "D:/code/Study-Code/demo_5.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_5.dir\\demo_5_point.cpp.obj -c D:\\code\\Study-Code\\demo_5_point.cpp",
+  "file": "D:/code/Study-Code/demo_5_point.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_5.dir\\demo_5_circle.cpp.obj -c D:\\code\\Study-Code\\demo_5_circle.cpp",
+  "file": "D:/code/Study-Code/demo_5_circle.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_1.dir\\demo_1.cpp.obj -c D:\\code\\Study-Code\\demo_1.cpp",
+  "file": "D:/code/Study-Code/demo_1.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_2.dir\\demo_2.cpp.obj -c D:\\code\\Study-Code\\demo_2.cpp",
+  "file": "D:/code/Study-Code/demo_2.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_3.dir\\demo_3.cpp.obj -c D:\\code\\Study-Code\\demo_3.cpp",
+  "file": "D:/code/Study-Code/demo_3.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_4.dir\\demo_4.cpp.obj -c D:\\code\\Study-Code\\demo_4.cpp",
+  "file": "D:/code/Study-Code/demo_4.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_6.dir\\demo_6.cpp.obj -c D:\\code\\Study-Code\\demo_6.cpp",
+  "file": "D:/code/Study-Code/demo_6.cpp"
+}
+]

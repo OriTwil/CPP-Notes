@@ -96,7 +96,7 @@ int main()
     引用作函数的返回值
     */
 
-    int &ref = test02();
+    int& ref = test02();
     cout << "ref = " << ref << endl;
     cout << "test02 = " << test02() << endl;
 
@@ -109,7 +109,7 @@ int main()
     cout << "test02 = " << test02() << endl;
 
     //常量引用作形参
-    const int& ref = 10;//编译器优化代码，自动开辟一个空间
+    // const int& ref = 10;//编译器优化代码，自动开辟一个空间
     showValue(a);
 
     system("pause");
