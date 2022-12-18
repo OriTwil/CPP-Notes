@@ -1,0 +1,199 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DEMO",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_1-Debug-faeed5d9a11d6c8aee41.json",
+					"name" : "demo_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_10-Debug-6e301fda3c06beefd918.json",
+					"name" : "demo_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_11-Debug-201864a0d88dc98bd11a.json",
+					"name" : "demo_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_12-Debug-4b8e373018c3bb90d15c.json",
+					"name" : "demo_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_13-Debug-b397e8e9a430f5473673.json",
+					"name" : "demo_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_14-Debug-41b1e8b55892921a900e.json",
+					"name" : "demo_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_15-Debug-4a9f84e3595fb8ea18ca.json",
+					"name" : "demo_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_16-Debug-73772d1e4f92238d9075.json",
+					"name" : "demo_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_17-Debug-84aa4724a5889e0927e0.json",
+					"name" : "demo_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_18-Debug-602d6fe647d7ca3ef6ab.json",
+					"name" : "demo_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_2-Debug-b194860ec78fb1d6877f.json",
+					"name" : "demo_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_3-Debug-2f852a0e9fed3f4cbb1d.json",
+					"name" : "demo_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_4-Debug-eafdf7bd5656ecbeddc5.json",
+					"name" : "demo_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_5-Debug-1512853ee2337e069889.json",
+					"name" : "demo_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_6-Debug-e399cb522ac1616ee6c9.json",
+					"name" : "demo_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_8-Debug-097207835018ef6a2885.json",
+					"name" : "demo_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_9-Debug-9ead7f93bbb02538b956.json",
+					"name" : "demo_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/code/Study-Code/build",
+		"source" : "D:/code/Study-Code"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

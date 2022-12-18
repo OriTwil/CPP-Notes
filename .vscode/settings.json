@@ -4,7 +4,9 @@
         "new": "cpp",
         "ostream": "cpp",
         "typeinfo": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "type_traits": "cpp"
     },
     "cmake.sourceDirectory": "${workspaceFolder}/."
 }

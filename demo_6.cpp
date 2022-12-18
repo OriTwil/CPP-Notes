@@ -14,8 +14,10 @@ using namespace std;
 class Person
 {
 private:
-
 public:
+    int m_age;
+    int *m_height;
+
     // 1.构造函数 进行初始化操作
     // 没有返回值，也没有void
     // 函数名与类名相同
@@ -25,9 +27,6 @@ public:
     // 编译器默认有无参、有参、拷贝，
     // 如果自己写了有参构造函数，则编译器不再提供默认构造函数
     // 如果自己写拷贝，则编译器不提供构造函数了
-    int m_age;
-    int *m_height;
-
     Person()
     {
         cout << "invocation of parameterless constructor " << endl;
@@ -37,12 +36,15 @@ public:
         m_age = age;
         cout << "invocation of parametric constructor " << endl;
     }
-    Person(int age, int height)
-    {
-        m_age = age;
-        m_height = new int(height);
-        cout << "invocation of parametric constructor " << endl;
-    }
+    // Person(int age, int height)
+    // {
+    //     m_age = age;
+    //     m_height = &height;
+    //     cout << "invocation of parametric constructor " << endl;
+    // }
+    //初始化列表操作
+    Person(int age,int height):m_age(age),m_height(&height){}
+
     // 拷贝函数调用时机
     // 1.用一个创建完毕的对像初始化一个新对象
     // 2.值传递的方式给函数参数传值
@@ -51,8 +53,9 @@ public:
     Person(const Person &p) // 注意：不要利用拷贝构造函数创建匿名对象
     {
         m_age = p.m_age;
-        // m_height = p.m_height;//浅拷贝
-        m_height = new int(*p.m_height);
+        m_height = p.m_height; // 浅拷贝
+        // m_height = new int(*p.m_height);//深拷贝
+        cout << "拷贝的地址：" << (long long)m_height << endl;
         cout << "invocation of copy constructor " << endl;
     }
 
@@ -73,8 +76,8 @@ public:
     // 销毁对象时自动调用函数一次
     ~Person()
     {
-        //浅拷贝会导致内存重复释放
-        if(m_height != NULL)
+        // 浅拷贝会导致内存重复释放
+        if (m_height != NULL)
         {
             // delete m_height;
             m_height = NULL;
@@ -86,9 +89,10 @@ public:
 void Test01()
 {
     // 1.括号法
-    Person p1;          // 无参,默认构造函数的调用不要加（）
+    Person p1;     // 无参,默认构造函数的调用不要加（）
     Person p2(10); // 有参
-    Person p3(p2);      // 拷贝
+    cout << "原地址：" << (long long)p2.m_height << endl;
+    Person p3(p2); // 拷贝
     p3.showAge();
 
     // 2.显式法
