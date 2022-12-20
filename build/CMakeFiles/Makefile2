@@ -86,6 +86,10 @@ all: CMakeFiles/demo_8.dir/all
 all: CMakeFiles/demo_12.dir/all
 all: CMakeFiles/demo_15.dir/all
 all: CMakeFiles/demo_18.dir/all
+all: CMakeFiles/demo_19.dir/all
+all: CMakeFiles/demo_20.dir/all
+all: CMakeFiles/demo_21.dir/all
+all: CMakeFiles/demo_23.dir/all
 
 .PHONY : all
 
@@ -112,6 +116,10 @@ clean: CMakeFiles/demo_8.dir/clean
 clean: CMakeFiles/demo_12.dir/clean
 clean: CMakeFiles/demo_15.dir/clean
 clean: CMakeFiles/demo_18.dir/clean
+clean: CMakeFiles/demo_19.dir/clean
+clean: CMakeFiles/demo_20.dir/clean
+clean: CMakeFiles/demo_21.dir/clean
+clean: CMakeFiles/demo_23.dir/clean
 
 .PHONY : clean
 
@@ -149,7 +157,7 @@ CMakeFiles/demo_10.dir/clean:
 CMakeFiles/demo_5.dir/all:
 	$(MAKE) -f CMakeFiles\demo_5.dir\build.make CMakeFiles/demo_5.dir/depend
 	$(MAKE) -f CMakeFiles\demo_5.dir\build.make CMakeFiles/demo_5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=33,34,35,36 "Built target demo_5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=41,42,43,44 "Built target demo_5"
 .PHONY : CMakeFiles/demo_5.dir/all
 
 # Build rule for subdir invocation for target.
@@ -176,7 +184,7 @@ CMakeFiles/demo_5.dir/clean:
 CMakeFiles/demo_9.dir/all:
 	$(MAKE) -f CMakeFiles\demo_9.dir\build.make CMakeFiles/demo_9.dir/depend
 	$(MAKE) -f CMakeFiles\demo_9.dir\build.make CMakeFiles/demo_9.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=41,42 "Built target demo_9"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=49,50 "Built target demo_9"
 .PHONY : CMakeFiles/demo_9.dir/all
 
 # Build rule for subdir invocation for target.
@@ -284,7 +292,7 @@ CMakeFiles/demo_17.dir/clean:
 CMakeFiles/demo_2.dir/all:
 	$(MAKE) -f CMakeFiles\demo_2.dir\build.make CMakeFiles/demo_2.dir/depend
 	$(MAKE) -f CMakeFiles\demo_2.dir\build.make CMakeFiles/demo_2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=27,28 "Built target demo_2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=29,30 "Built target demo_2"
 .PHONY : CMakeFiles/demo_2.dir/all
 
 # Build rule for subdir invocation for target.
@@ -338,7 +346,7 @@ CMakeFiles/demo_16.dir/clean:
 CMakeFiles/demo_3.dir/all:
 	$(MAKE) -f CMakeFiles\demo_3.dir\build.make CMakeFiles/demo_3.dir/depend
 	$(MAKE) -f CMakeFiles\demo_3.dir\build.make CMakeFiles/demo_3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=29,30 "Built target demo_3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=37,38 "Built target demo_3"
 .PHONY : CMakeFiles/demo_3.dir/all
 
 # Build rule for subdir invocation for target.
@@ -392,7 +400,7 @@ CMakeFiles/demo_11.dir/clean:
 CMakeFiles/demo_4.dir/all:
 	$(MAKE) -f CMakeFiles\demo_4.dir\build.make CMakeFiles/demo_4.dir/depend
 	$(MAKE) -f CMakeFiles\demo_4.dir\build.make CMakeFiles/demo_4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=31,32 "Built target demo_4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=39,40 "Built target demo_4"
 .PHONY : CMakeFiles/demo_4.dir/all
 
 # Build rule for subdir invocation for target.
@@ -446,7 +454,7 @@ CMakeFiles/demo_13.dir/clean:
 CMakeFiles/demo_6.dir/all:
 	$(MAKE) -f CMakeFiles\demo_6.dir\build.make CMakeFiles/demo_6.dir/depend
 	$(MAKE) -f CMakeFiles\demo_6.dir\build.make CMakeFiles/demo_6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=37,38 "Built target demo_6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=45,46 "Built target demo_6"
 .PHONY : CMakeFiles/demo_6.dir/all
 
 # Build rule for subdir invocation for target.
@@ -473,7 +481,7 @@ CMakeFiles/demo_6.dir/clean:
 CMakeFiles/demo_8.dir/all:
 	$(MAKE) -f CMakeFiles\demo_8.dir\build.make CMakeFiles/demo_8.dir/depend
 	$(MAKE) -f CMakeFiles\demo_8.dir\build.make CMakeFiles/demo_8.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=39,40 "Built target demo_8"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=47,48 "Built target demo_8"
 .PHONY : CMakeFiles/demo_8.dir/all
 
 # Build rule for subdir invocation for target.
@@ -573,6 +581,114 @@ demo_18: CMakeFiles/demo_18.dir/rule
 CMakeFiles/demo_18.dir/clean:
 	$(MAKE) -f CMakeFiles\demo_18.dir\build.make CMakeFiles/demo_18.dir/clean
 .PHONY : CMakeFiles/demo_18.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/demo_19.dir
+
+# All Build rule for target.
+CMakeFiles/demo_19.dir/all:
+	$(MAKE) -f CMakeFiles\demo_19.dir\build.make CMakeFiles/demo_19.dir/depend
+	$(MAKE) -f CMakeFiles\demo_19.dir\build.make CMakeFiles/demo_19.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=27,28 "Built target demo_19"
+.PHONY : CMakeFiles/demo_19.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/demo_19.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/demo_19.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 0
+.PHONY : CMakeFiles/demo_19.dir/rule
+
+# Convenience name for target.
+demo_19: CMakeFiles/demo_19.dir/rule
+
+.PHONY : demo_19
+
+# clean rule for target.
+CMakeFiles/demo_19.dir/clean:
+	$(MAKE) -f CMakeFiles\demo_19.dir\build.make CMakeFiles/demo_19.dir/clean
+.PHONY : CMakeFiles/demo_19.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/demo_20.dir
+
+# All Build rule for target.
+CMakeFiles/demo_20.dir/all:
+	$(MAKE) -f CMakeFiles\demo_20.dir\build.make CMakeFiles/demo_20.dir/depend
+	$(MAKE) -f CMakeFiles\demo_20.dir\build.make CMakeFiles/demo_20.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=31,32 "Built target demo_20"
+.PHONY : CMakeFiles/demo_20.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/demo_20.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/demo_20.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 0
+.PHONY : CMakeFiles/demo_20.dir/rule
+
+# Convenience name for target.
+demo_20: CMakeFiles/demo_20.dir/rule
+
+.PHONY : demo_20
+
+# clean rule for target.
+CMakeFiles/demo_20.dir/clean:
+	$(MAKE) -f CMakeFiles\demo_20.dir\build.make CMakeFiles/demo_20.dir/clean
+.PHONY : CMakeFiles/demo_20.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/demo_21.dir
+
+# All Build rule for target.
+CMakeFiles/demo_21.dir/all:
+	$(MAKE) -f CMakeFiles\demo_21.dir\build.make CMakeFiles/demo_21.dir/depend
+	$(MAKE) -f CMakeFiles\demo_21.dir\build.make CMakeFiles/demo_21.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=33,34 "Built target demo_21"
+.PHONY : CMakeFiles/demo_21.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/demo_21.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/demo_21.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 0
+.PHONY : CMakeFiles/demo_21.dir/rule
+
+# Convenience name for target.
+demo_21: CMakeFiles/demo_21.dir/rule
+
+.PHONY : demo_21
+
+# clean rule for target.
+CMakeFiles/demo_21.dir/clean:
+	$(MAKE) -f CMakeFiles\demo_21.dir\build.make CMakeFiles/demo_21.dir/clean
+.PHONY : CMakeFiles/demo_21.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/demo_23.dir
+
+# All Build rule for target.
+CMakeFiles/demo_23.dir/all:
+	$(MAKE) -f CMakeFiles\demo_23.dir\build.make CMakeFiles/demo_23.dir/depend
+	$(MAKE) -f CMakeFiles\demo_23.dir\build.make CMakeFiles/demo_23.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=35,36 "Built target demo_23"
+.PHONY : CMakeFiles/demo_23.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/demo_23.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/demo_23.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\code\Study-Code\build\CMakeFiles 0
+.PHONY : CMakeFiles/demo_23.dir/rule
+
+# Convenience name for target.
+demo_23: CMakeFiles/demo_23.dir/rule
+
+.PHONY : demo_23
+
+# clean rule for target.
+CMakeFiles/demo_23.dir/clean:
+	$(MAKE) -f CMakeFiles\demo_23.dir\build.make CMakeFiles/demo_23.dir/clean
+.PHONY : CMakeFiles/demo_23.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

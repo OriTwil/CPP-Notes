@@ -33,3 +33,11 @@ add_executable(demo_16 demo_16.cpp)
 add_executable(demo_17 demo_17.cpp)
 
 add_executable(demo_18 demo_18.cpp demo_18_workmanager.cpp demo_18_employee.cpp demo_18_manager.cpp demo_18_boss.cpp)
+
+add_executable(demo_19 demo_19.cpp)
+
+add_executable(demo_20 demo_20.cpp)
+
+add_executable(demo_21 demo_21.cpp)
+
+add_executable(demo_23 demo_23.cpp)

@@ -1,0 +1,3 @@
+D:\cmake-3.17.0-rc3-win64-x64\bin\cmake.exe -E rm -f CMakeFiles\demo_21.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\demo_21.dir/objects.a @CMakeFiles\demo_21.dir\objects1.rsp
+D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe -g   -Wl,--whole-archive CMakeFiles\demo_21.dir/objects.a -Wl,--no-whole-archive  -o demo_21.exe -Wl,--out-implib,libdemo_21.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\demo_21.dir\linklibs.rsp

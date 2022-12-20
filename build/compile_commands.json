@@ -123,5 +123,25 @@
   "directory": "D:/code/Study-Code/build",
   "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_18.dir\\demo_18_boss.cpp.obj -c D:\\code\\Study-Code\\demo_18_boss.cpp",
   "file": "D:/code/Study-Code/demo_18_boss.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_19.dir\\demo_19.cpp.obj -c D:\\code\\Study-Code\\demo_19.cpp",
+  "file": "D:/code/Study-Code/demo_19.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_20.dir\\demo_20.cpp.obj -c D:\\code\\Study-Code\\demo_20.cpp",
+  "file": "D:/code/Study-Code/demo_20.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_21.dir\\demo_21.cpp.obj -c D:\\code\\Study-Code\\demo_21.cpp",
+  "file": "D:/code/Study-Code/demo_21.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_23.dir\\demo_23.cpp.obj -c D:\\code\\Study-Code\\demo_23.cpp",
+  "file": "D:/code/Study-Code/demo_23.cpp"
 }
 ]
