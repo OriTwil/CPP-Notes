@@ -30,7 +30,8 @@
 						17,
 						18,
 						19,
-						20
+						20,
+						21
 					]
 				}
 			],
@@ -65,7 +66,8 @@
 						17,
 						18,
 						19,
-						20
+						20,
+						21
 					]
 				}
 			],
@@ -174,6 +176,13 @@
 					"id" : "demo_23::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-demo_23-Debug-4ee6c1d935408702663d.json",
 					"name" : "demo_23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "demo_24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-demo_24-Debug-8efb5858e57fe90cca37.json",
+					"name" : "demo_24",
 					"projectIndex" : 0
 				},
 				{

@@ -41,3 +41,5 @@ add_executable(demo_20 demo_20.cpp)
 add_executable(demo_21 demo_21.cpp)
 
 add_executable(demo_23 demo_23.cpp)
+
+add_executable(demo_24 demo_24.cpp)
