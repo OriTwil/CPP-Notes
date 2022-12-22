@@ -20,6 +20,10 @@ CMAKE_ADDR2LINE:FILEPATH=D:/mingw/mingw64/bin/addr2line.exe
 //Path to a program.
 CMAKE_AR:FILEPATH=D:/mingw/mingw64/bin/ar.exe
 
+//For backwards compatibility, what version of CMake commands and
+// syntax should this version of CMake try to support.
+CMAKE_BACKWARDS_COMPATIBILITY:STRING=2.4
+
 //No help, variable specified on the command line.
 CMAKE_BUILD_TYPE:STRING=Debug
 
@@ -240,6 +244,12 @@ DEMO_BINARY_DIR:STATIC=D:/code/Study-Code/build
 
 //Value Computed by CMake
 DEMO_SOURCE_DIR:STATIC=D:/code/Study-Code
+
+//Single output directory for building all executables.
+EXECUTABLE_OUTPUT_PATH:PATH=
+
+//Single output directory for building all libraries.
+LIBRARY_OUTPUT_PATH:PATH=
 
 
 ########################

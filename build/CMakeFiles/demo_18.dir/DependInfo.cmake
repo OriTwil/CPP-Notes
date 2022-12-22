@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code/Study-Code/demo_18.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18.cpp.obj"
-  "D:/code/Study-Code/demo_18_boss.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_boss.cpp.obj"
-  "D:/code/Study-Code/demo_18_employee.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_employee.cpp.obj"
-  "D:/code/Study-Code/demo_18_manager.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_manager.cpp.obj"
-  "D:/code/Study-Code/demo_18_workmanager.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_workmanager.cpp.obj"
+  "D:/code/Study-Code/demo_18.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18.obj"
+  "D:/code/Study-Code/demo_18_boss.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_boss.obj"
+  "D:/code/Study-Code/demo_18_employee.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_employee.obj"
+  "D:/code/Study-Code/demo_18_manager.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_manager.obj"
+  "D:/code/Study-Code/demo_18_workmanager.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_18.dir/demo_18_workmanager.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

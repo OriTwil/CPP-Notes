@@ -6,7 +6,8 @@
         "typeinfo": "cpp",
         "string": "cpp",
         "iosfwd": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "queue": "cpp"
     },
     "cmake.sourceDirectory": "${workspaceFolder}/."
 }

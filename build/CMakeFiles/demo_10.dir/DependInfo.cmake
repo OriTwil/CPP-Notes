@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/code/Study-Code/demo_10.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_10.dir/demo_10.cpp.obj"
-  "D:/code/Study-Code/demo_10_person.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_10.dir/demo_10_person.cpp.obj"
-  "D:/code/Study-Code/demo_10_test.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_10.dir/demo_10_test.cpp.obj"
+  "D:/code/Study-Code/demo_10.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_10.dir/demo_10.obj"
+  "D:/code/Study-Code/demo_10_person.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_10.dir/demo_10_person.obj"
+  "D:/code/Study-Code/demo_10_test.cpp" "D:/code/Study-Code/build/CMakeFiles/demo_10.dir/demo_10_test.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

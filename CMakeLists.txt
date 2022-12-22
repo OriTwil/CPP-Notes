@@ -43,3 +43,17 @@ add_executable(demo_21 demo_21.cpp)
 add_executable(demo_23 demo_23.cpp)
 
 add_executable(demo_24 demo_24.cpp)
+
+add_executable(demo_25 demo_25.cpp)
+
+add_executable(demo_26 demo_26.cpp)
+
+add_executable(demo_27 demo_27.cpp)
+
+add_executable(demo_28 demo_28.cpp)
+
+add_executable(demo_29 demo_29.cpp)
+
+add_executable(demo_30 demo_30.cpp)
+
+add_executable(demo_31 demo_31.cpp)

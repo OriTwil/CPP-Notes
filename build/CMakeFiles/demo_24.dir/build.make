@@ -73,27 +73,27 @@ include CMakeFiles/demo_24.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/demo_24.dir/flags.make
 
-CMakeFiles/demo_24.dir/demo_24.cpp.obj: CMakeFiles/demo_24.dir/flags.make
-CMakeFiles/demo_24.dir/demo_24.cpp.obj: ../demo_24.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/demo_24.dir/demo_24.cpp.obj"
-	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\demo_24.dir\demo_24.cpp.obj -c D:\code\Study-Code\demo_24.cpp
+CMakeFiles/demo_24.dir/demo_24.obj: CMakeFiles/demo_24.dir/flags.make
+CMakeFiles/demo_24.dir/demo_24.obj: ../demo_24.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/demo_24.dir/demo_24.obj"
+	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\demo_24.dir\demo_24.obj -c D:\code\Study-Code\demo_24.cpp
 
-CMakeFiles/demo_24.dir/demo_24.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/demo_24.dir/demo_24.cpp.i"
-	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\Study-Code\demo_24.cpp > CMakeFiles\demo_24.dir\demo_24.cpp.i
+CMakeFiles/demo_24.dir/demo_24.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/demo_24.dir/demo_24.i"
+	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\Study-Code\demo_24.cpp > CMakeFiles\demo_24.dir\demo_24.i
 
-CMakeFiles/demo_24.dir/demo_24.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/demo_24.dir/demo_24.cpp.s"
-	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\Study-Code\demo_24.cpp -o CMakeFiles\demo_24.dir\demo_24.cpp.s
+CMakeFiles/demo_24.dir/demo_24.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/demo_24.dir/demo_24.s"
+	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\Study-Code\demo_24.cpp -o CMakeFiles\demo_24.dir\demo_24.s
 
 # Object files for target demo_24
 demo_24_OBJECTS = \
-"CMakeFiles/demo_24.dir/demo_24.cpp.obj"
+"CMakeFiles/demo_24.dir/demo_24.obj"
 
 # External object files for target demo_24
 demo_24_EXTERNAL_OBJECTS =
 
-demo_24.exe: CMakeFiles/demo_24.dir/demo_24.cpp.obj
+demo_24.exe: CMakeFiles/demo_24.dir/demo_24.obj
 demo_24.exe: CMakeFiles/demo_24.dir/build.make
 demo_24.exe: CMakeFiles/demo_24.dir/linklibs.rsp
 demo_24.exe: CMakeFiles/demo_24.dir/objects1.rsp

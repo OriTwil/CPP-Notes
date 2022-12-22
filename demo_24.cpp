@@ -63,8 +63,8 @@ void PrintVector(vector<int> &v)
         cout << *it << " ";
     }
     cout << endl;
-    cout << "v1的容量为 : " << v.capacity() << endl;
-    cout << "v1的大小为 : " << v.size() << endl;
+    cout << "v的容量为 : " << v.capacity() << endl;
+    cout << "v的大小为 : " << v.size() << endl;
     cout << endl;
 }
 

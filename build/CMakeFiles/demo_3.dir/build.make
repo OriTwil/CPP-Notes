@@ -73,27 +73,27 @@ include CMakeFiles/demo_3.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/demo_3.dir/flags.make
 
-CMakeFiles/demo_3.dir/demo_3.cpp.obj: CMakeFiles/demo_3.dir/flags.make
-CMakeFiles/demo_3.dir/demo_3.cpp.obj: ../demo_3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/demo_3.dir/demo_3.cpp.obj"
-	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\demo_3.dir\demo_3.cpp.obj -c D:\code\Study-Code\demo_3.cpp
+CMakeFiles/demo_3.dir/demo_3.obj: CMakeFiles/demo_3.dir/flags.make
+CMakeFiles/demo_3.dir/demo_3.obj: ../demo_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\code\Study-Code\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/demo_3.dir/demo_3.obj"
+	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\demo_3.dir\demo_3.obj -c D:\code\Study-Code\demo_3.cpp
 
-CMakeFiles/demo_3.dir/demo_3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/demo_3.dir/demo_3.cpp.i"
-	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\Study-Code\demo_3.cpp > CMakeFiles\demo_3.dir\demo_3.cpp.i
+CMakeFiles/demo_3.dir/demo_3.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/demo_3.dir/demo_3.i"
+	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\code\Study-Code\demo_3.cpp > CMakeFiles\demo_3.dir\demo_3.i
 
-CMakeFiles/demo_3.dir/demo_3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/demo_3.dir/demo_3.cpp.s"
-	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\Study-Code\demo_3.cpp -o CMakeFiles\demo_3.dir\demo_3.cpp.s
+CMakeFiles/demo_3.dir/demo_3.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/demo_3.dir/demo_3.s"
+	D:\mingw\mingw64\bin\x86_64-w64-mingw32-g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\code\Study-Code\demo_3.cpp -o CMakeFiles\demo_3.dir\demo_3.s
 
 # Object files for target demo_3
 demo_3_OBJECTS = \
-"CMakeFiles/demo_3.dir/demo_3.cpp.obj"
+"CMakeFiles/demo_3.dir/demo_3.obj"
 
 # External object files for target demo_3
 demo_3_EXTERNAL_OBJECTS =
 
-demo_3.exe: CMakeFiles/demo_3.dir/demo_3.cpp.obj
+demo_3.exe: CMakeFiles/demo_3.dir/demo_3.obj
 demo_3.exe: CMakeFiles/demo_3.dir/build.make
 demo_3.exe: CMakeFiles/demo_3.dir/linklibs.rsp
 demo_3.exe: CMakeFiles/demo_3.dir/objects1.rsp
