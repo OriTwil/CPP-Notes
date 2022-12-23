@@ -503,6 +503,32 @@ demo_31/fast:
 	$(MAKE) -f CMakeFiles\demo_31.dir\build.make CMakeFiles/demo_31.dir/build
 .PHONY : demo_31/fast
 
+#=============================================================================
+# Target rules for targets named demo_32
+
+# Build rule for target.
+demo_32: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 demo_32
+.PHONY : demo_32
+
+# fast build rule for target.
+demo_32/fast:
+	$(MAKE) -f CMakeFiles\demo_32.dir\build.make CMakeFiles/demo_32.dir/build
+.PHONY : demo_32/fast
+
+#=============================================================================
+# Target rules for targets named demo_33
+
+# Build rule for target.
+demo_33: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 demo_33
+.PHONY : demo_33
+
+# fast build rule for target.
+demo_33/fast:
+	$(MAKE) -f CMakeFiles\demo_33.dir\build.make CMakeFiles/demo_33.dir/build
+.PHONY : demo_33/fast
+
 # target to build an object file
 demo_1.obj:
 	$(MAKE) -f CMakeFiles\demo_1.dir\build.make CMakeFiles/demo_1.dir/demo_1.obj
@@ -954,6 +980,36 @@ demo_31.s:
 .PHONY : demo_31.s
 
 # target to build an object file
+demo_32.obj:
+	$(MAKE) -f CMakeFiles\demo_32.dir\build.make CMakeFiles/demo_32.dir/demo_32.obj
+.PHONY : demo_32.obj
+
+# target to preprocess a source file
+demo_32.i:
+	$(MAKE) -f CMakeFiles\demo_32.dir\build.make CMakeFiles/demo_32.dir/demo_32.i
+.PHONY : demo_32.i
+
+# target to generate assembly for a file
+demo_32.s:
+	$(MAKE) -f CMakeFiles\demo_32.dir\build.make CMakeFiles/demo_32.dir/demo_32.s
+.PHONY : demo_32.s
+
+# target to build an object file
+demo_33.obj:
+	$(MAKE) -f CMakeFiles\demo_33.dir\build.make CMakeFiles/demo_33.dir/demo_33.obj
+.PHONY : demo_33.obj
+
+# target to preprocess a source file
+demo_33.i:
+	$(MAKE) -f CMakeFiles\demo_33.dir\build.make CMakeFiles/demo_33.dir/demo_33.i
+.PHONY : demo_33.i
+
+# target to generate assembly for a file
+demo_33.s:
+	$(MAKE) -f CMakeFiles\demo_33.dir\build.make CMakeFiles/demo_33.dir/demo_33.s
+.PHONY : demo_33.s
+
+# target to build an object file
 demo_4.obj:
 	$(MAKE) -f CMakeFiles\demo_4.dir\build.make CMakeFiles/demo_4.dir/demo_4.obj
 .PHONY : demo_4.obj
@@ -1090,6 +1146,8 @@ help:
 	@echo ... demo_3
 	@echo ... demo_30
 	@echo ... demo_31
+	@echo ... demo_32
+	@echo ... demo_33
 	@echo ... demo_4
 	@echo ... demo_5
 	@echo ... demo_6
@@ -1185,6 +1243,12 @@ help:
 	@echo ... demo_31.obj
 	@echo ... demo_31.i
 	@echo ... demo_31.s
+	@echo ... demo_32.obj
+	@echo ... demo_32.i
+	@echo ... demo_32.s
+	@echo ... demo_33.obj
+	@echo ... demo_33.i
+	@echo ... demo_33.s
 	@echo ... demo_4.obj
 	@echo ... demo_4.i
 	@echo ... demo_4.s

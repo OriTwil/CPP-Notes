@@ -28,4 +28,6 @@ D:/code/Study-Code/build/CMakeFiles/demo_29.dir
 D:/code/Study-Code/build/CMakeFiles/edit_cache.dir
 D:/code/Study-Code/build/CMakeFiles/demo_30.dir
 D:/code/Study-Code/build/CMakeFiles/demo_31.dir
+D:/code/Study-Code/build/CMakeFiles/demo_32.dir
+D:/code/Study-Code/build/CMakeFiles/demo_33.dir
 D:/code/Study-Code/build/CMakeFiles/rebuild_cache.dir

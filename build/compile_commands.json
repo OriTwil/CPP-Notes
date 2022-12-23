@@ -183,5 +183,15 @@
   "directory": "D:/code/Study-Code/build",
   "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_31.dir\\demo_31.obj -c D:\\code\\Study-Code\\demo_31.cpp",
   "file": "D:/code/Study-Code/demo_31.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_32.dir\\demo_32.obj -c D:\\code\\Study-Code\\demo_32.cpp",
+  "file": "D:/code/Study-Code/demo_32.cpp"
+},
+{
+  "directory": "D:/code/Study-Code/build",
+  "command": "D:\\mingw\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\demo_33.dir\\demo_33.obj -c D:\\code\\Study-Code\\demo_33.cpp",
+  "file": "D:/code/Study-Code/demo_33.cpp"
 }
 ]
